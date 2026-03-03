@@ -1,2 +1,2 @@
-![项目Logo](assets/logo.png)
+![项目Logo](icons.png)
 # json2python
